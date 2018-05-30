@@ -9,5 +9,5 @@
         <mapping class="com.example.lenovo.coolweather.db.City" />
         <mapping class="com.example.lenovo.coolweather.db.County"/>
     </list>
-    
+
 </litepal>

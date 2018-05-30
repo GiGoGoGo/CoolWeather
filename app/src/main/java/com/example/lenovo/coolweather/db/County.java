@@ -1,10 +1,12 @@
 package com.example.lenovo.coolweather.db;
 
+import org.litepal.crud.DataSupport;
+
 /**
  * Created by lenovo on 2018/5/30.
  */
 
-public class County {
+public class County extends DataSupport{
 
     private int id;
 
